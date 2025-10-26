@@ -1,0 +1,13 @@
+pandas>=2.0
+numpy>=1.25
+scikit-learn>=1.4
+torch>=2.2
+transformers>=4.44
+nltk>=3.9
+spacy>=3.7
+matplotlib>=3.8
+seaborn>=0.13
+tqdm>=4.66
+streamlit>=1.37
+typer>=0.12
+joblib>=1.4
